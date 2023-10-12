@@ -7,7 +7,7 @@
 O projeto consiste na implementação de um sistema Ladder por meio do Software [Siemens's TIA Portal V15](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-WW) para a resolução de uma das cenas predefinidas do Software [Factory IO](https://factoryio.com/) "Sorting-Station" . O problema em questão consiste sem separar objetos em função de suas cores.
 
 <p align="center">
-<img src=![Screenshot_1](https://github.com/Rafa7046/Automacao_industrial/assets/69091308/80f02c6c-f0d0-407a-9674-781f004e0b14)>
+<img src=https://github.com/Rafa7046/Automacao_industrial/assets/69091308/80f02c6c-f0d0-407a-9674-781f004e0b14>
 </p>
 
 <p align="center"> 
@@ -17,7 +17,7 @@ O projeto consiste na implementação de um sistema Ladder por meio do Software 
 Para esse cenário, temos três cores possíveis: Azul, Verde e Cinza. Essas cores são detectadas por um sensor que aciona os separadores, assegurando que cada objeto seja direcionado para a rampa correspondente. Abaixo está a ilustração do sensor.
 
 <p align="center">
-<img src=![Screenshot_2](https://github.com/Rafa7046/Automacao_industrial/assets/69091308/c2ca4499-8f19-46a2-bddd-e06a9c3aa612)>
+<img src=https://github.com/Rafa7046/Automacao_industrial/assets/69091308/c2ca4499-8f19-46a2-bddd-e06a9c3aa612>
 </p>
 
 <p align="center"> 
@@ -27,7 +27,7 @@ Para esse cenário, temos três cores possíveis: Azul, Verde e Cinza. Essas cor
 O processo é iniciado ao pressionar o botão verde e interrompido ao pressionar o botão vermelho, ambos localizados no painel do CLP. Abaixo está a representação do painel.
 
 <p align="center">
-<img src=![Screenshot_3](https://github.com/Rafa7046/Automacao_industrial/assets/69091308/7aa3e506-7ab6-4aa1-9455-2336c8287c5b)>
+<img src=https://github.com/Rafa7046/Automacao_industrial/assets/69091308/7aa3e506-7ab6-4aa1-9455-2336c8287c5b>
 </p>
 
 <p align="center"> 
